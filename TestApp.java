@@ -100,7 +100,7 @@ public class TestApp {
 
         System.out.println("Chad is registered in ECSE: "+ecse.isStudentRegistered(chad));
 
-        //  THE FOLLOWING QUESTIONS WERE PART OF BONUS QUESTIONS AND I DID NOT DO THEM
+        
 
         System.out.println("Students registered in sofe2710: ");
         ecse.printStudentsRegisteredInCourse(2710);
